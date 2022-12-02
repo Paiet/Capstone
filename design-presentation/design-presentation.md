@@ -1,7 +1,7 @@
 # Fall 2022 - Design Presentation
 
 *  [abstract](abstract.md)
-*  [background and topic overview](../ICS.md)
+*  [background and topic overview](ICS.md)
 *  [accomplishments](accomplishments.md)
 *  [dependancies](dependancies.md)
 
