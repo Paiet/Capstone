@@ -4,7 +4,7 @@ This semester I accomplished my major design activities.  These included
 
 * Created a [mindmup](mindmup.md) of our project 
 * Set up our network
-* Set up zoning
+* Set up [firewalls and zoning](firewallsAndZoning.md)
 * Set up hosts
 * Set up DNS
 * Communication with manufactures and Leahy Center
