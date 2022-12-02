@@ -2,7 +2,7 @@
 
 This semester I accomplished my major design activities.  These included
 
-* Created a MindMap of our project [mindmup](mindmup.md)
+* Created a [mindmup](mindmup.md) of our project 
 * Set up our network
 * Set up zoning
 * Set up hosts
