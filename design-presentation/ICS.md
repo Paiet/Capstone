@@ -1,4 +1,5 @@
-**ICS: 
+*ICS:*
+
 **Purpose Statement**
 - This capstone project aims to leverage knowledge learned about security testing in the cybersecurity realm and apply it in another context to the physical world. We aim to determine how best to protect manufacturers' ICS systems from harm and attack to prevent various disasters. This capstone will allow the researcher to test different ICS systems to determine which system performs and protects the best and provide this information to facilitate ICS systems.
 
