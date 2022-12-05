@@ -10,6 +10,3 @@
   * [sprint2.md](sprint2.md) 
   * [sprint3.md](sprint3.md) 
   * [sprint4.md](sprint4.md) 
-
-
-* [backup video demo](https://drive.google.com/.....)
