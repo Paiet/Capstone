@@ -3,7 +3,7 @@
 *  [abstract](abstract.md)
 *  [background and topic overview](ICS.md)
 *  [accomplishments](accomplishments.md)
-*  [dependancies](dependancies.md)
+*  [dependencies](dependencies.md)
 
 * The plan for Spring 2023
   * [sprint1.md](sprint1.md) 
