@@ -1,4 +1,4 @@
-# Dependancies
+# Dependencies
 
 * Our project has quite a few dependencies:
   * We rely on suppliers for our physical infrastructure: HMIs, PLCs, IEDs, and DCSs.
@@ -17,4 +17,4 @@ There are a lot of dependencies required for the ICS project, though among the d
 
 The main variables are the Industrial Control Systems, which can come in many forms. Anything that runs OpenPLC or OpenICS could work too. The supplementary services could also run in either a VM (ideal) or, at worst, run alongside each other on a Raspberry Pi (less than ideal) or our ESXI server. Making the project cloud-hosted might also be possible, though that would incur much higher costs regularly.
 
-https://github.com/Paiet/Capstone/wiki/Dependancies
+https://github.com/Paiet/Capstone/wiki/Dependencies
